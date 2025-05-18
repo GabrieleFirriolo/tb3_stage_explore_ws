@@ -1,0 +1,13 @@
+[submodule "src/m-explore-ros2"]
+	path = src/m-explore-ros2
+	url = https://github.com/GabrieleFirriolo/m-explore-ros2
+[submodule "src/ros2_gmapping"]
+	path = src/ros2_gmapping
+	url = https://github.com/GabrieleFirriolo/ros2_gmapping
+[submodule "src/Stage"]
+	path = src/Stage
+	url = https://github.com/tuw-robotics/Stage
+[submodule "src/stage_ros2"]
+	path = src/stage_ros2
+	url = https://github.com/tuw-robotics/stage_ros2.git
+	branch = jazzy
